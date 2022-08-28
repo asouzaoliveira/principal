@@ -1,0 +1,144 @@
+
+header{
+	position: relative;
+	width: 100%;
+	padding: 20px 0;
+	background: #D8BFD8;
+}
+
+.cabecalho{
+	position: relative;
+	width: 940px;
+	margin: 0 0 0 100px;
+	padding: 0 0 0 100px;
+	
+	}
+
+.imagem-logo{
+	width: 20%;
+	position: relative;
+	display: inline-block;
+	margin: 10px 80px 10px auto;
+	border-radius: 50%;
+	
+}
+
+.posicao-cabecalho{
+
+	position: absolute;
+	top: 30px;
+	right: 0;
+}
+
+
+.lista-cabecalho li{
+
+	display: inline-block;
+	margin: 50px 0 0 15px;
+
+
+}
+
+.lista-cabecalho a{
+
+	text-transform: uppercase;
+	font-size: 1.2em;
+	color: #9932CC;
+	text-align: right;
+	text-decoration: none;
+
+}
+
+.posicao-cabecalhoMidias{
+
+	position: absolute;
+	margin-top: 10px;
+
+	margin-left: 10%;
+	padding: 5%;
+
+	
+
+}
+
+.lista-midias li{
+
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 5px;
+	color: #9932CC ;
+
+
+
+}
+
+.lista-midias img{
+
+	width: 7%;
+	margin-right: 5px;
+	margin-left: 5px;
+
+	border-radius: 50%;
+
+}
+
+
+
+.lista-midias a{
+
+
+	font-size: 1.2em;
+	color: #9932CC;
+	text-align: right;
+	text-decoration: none;
+}
+
+footer{
+
+	position: absolute;
+	width: 100%;
+	margin-bottom: 0;
+	background: #D8BFD8;
+
+
+
+}
+
+.caixa-Footer{
+
+	width: 640px;
+	padding: 40px 0;
+	margin-left: 300px;
+	vertical-align: top;
+	
+
+
+
+}
+
+.caixa-Footer p{
+
+	margin-top: 30px;
+	
+	
+}
+
+
+.imagem-logoFooter{
+
+	float: right;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-top: 0px;
+	width: 10%;
+	display:inline-block;
+	border-radius: 50%;
+	
+	
+
+}
+
+
+
+
+
